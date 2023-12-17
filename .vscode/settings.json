@@ -1,0 +1,6 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.wrapLineLength": 120,
+  "prettier.printWidth": 120
+}
