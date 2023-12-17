@@ -1,0 +1,16 @@
+# .subsysignore - Subsys ignore file
+
+node_modules/
+# Ignore temporary files
+*.pyc
+*.bak
+*.swp
+
+*.whl
+# Ignore log files
+*.log
+# Ignore specific directories
+docs/
+dist/
+build/
+# Add more ignored files or folders here
